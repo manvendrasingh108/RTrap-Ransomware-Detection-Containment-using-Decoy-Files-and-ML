@@ -1,0 +1,5 @@
+scikit-learn
+numpy
+pandas     # Nayi library
+watchdog   # Nayi library
+psutil     # Nayi library

@@ -1,0 +1,1 @@
+[2025-08-31 00:12:09] ALERT: Ransomware activity detected on C:\Users\ironm\Documents\Test\college_RTrap_Decoy.txt
