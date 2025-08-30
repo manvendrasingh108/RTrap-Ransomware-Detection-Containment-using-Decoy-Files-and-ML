@@ -1,7 +1,6 @@
 # 🛡️ RTrap – Ransomware Detection & Containment using Decoy Files and ML
 
-RTrap is a **Python-based research framework** designed to detect and contain ransomware attacks using **decoy (honeypot) files** and **machine learning clustering**.  
-The system plants realistic fake files in user directories and continuously monitors them. If ransomware touches a decoy, RTrap instantly responds by **killing the malicious process** and **disconnecting the network** to prevent data loss and lateral spread.  
+RTrap is a **Python-based research framework** designed to detect and contain ransomware attacks using **decoy (honeypot) files** and **machine learning clustering**.The system plants realistic fake files in user directories and continuously monitors them. If ransomware touches a decoy, RTrap instantly responds by **killing the malicious process** and **disconnecting the network** to prevent data loss and lateral spread.  
 
 ---
 
