@@ -124,23 +124,23 @@ You’ll see **alerts** and **automatic containment actions** if ransomware atte
 
 - **Decoy Generation👇**
 
-![Watch Demo](https://github.com/mannu0359/R/blob/9dff14368ca2a191cd0f43f36126028e70880973/RTrap/Demo%20Videos%20and%20Screeshots/Generate.png)
+![Watch Demo](https://raw.githubusercontent.com/manvendrasingh108/RTrap-Ransomware-Detection-Containment-using-Decoy-Files-and-ML/refs/heads/master/RTrap/Demo%20Videos%20and%20Screeshots/Generate.png)
 
 - **Decoy Log File Generated(Decoy files-info)👇**
 
-![Watch Demo](https://github.com/mannu0359/R/blob/30c09dc53ef7234d585dddda757cf6a11e70292d/RTrap/Demo%20Videos%20and%20Screeshots/DecoyLog.jpg)
+![Watch Demo](https://raw.githubusercontent.com/manvendrasingh108/RTrap-Ransomware-Detection-Containment-using-Decoy-Files-and-ML/refs/heads/master/RTrap/Demo%20Videos%20and%20Screeshots/DecoyLog.jpg)
 
 - **Decoy Watcher👇**
 
-![Watch Demo](https://github.com/mannu0359/R/blob/30c09dc53ef7234d585dddda757cf6a11e70292d/RTrap/Demo%20Videos%20and%20Screeshots/Watch.png)
+![Watch Demo](https://raw.githubusercontent.com/manvendrasingh108/RTrap-Ransomware-Detection-Containment-using-Decoy-Files-and-ML/refs/heads/master/RTrap/Demo%20Videos%20and%20Screeshots/Watch.png)
 
 - **Ransomware Detected👇**
 
-![Watch Demo](https://github.com/mannu0359/R/blob/30c09dc53ef7234d585dddda757cf6a11e70292d/RTrap/Demo%20Videos%20and%20Screeshots/Alert.png)
+![Watch Demo](https://raw.githubusercontent.com/manvendrasingh108/RTrap-Ransomware-Detection-Containment-using-Decoy-Files-and-ML/refs/heads/master/RTrap/Demo%20Videos%20and%20Screeshots/Alert.png)
 
 - **Activity/Alert Log File Generated(Alert/Ransomware Detection Alert/File Modified Alert Registered With Timestamps in Alert Log File)👇**
 
-![Watch Demo](https://github.com/mannu0359/R/blob/30c09dc53ef7234d585dddda757cf6a11e70292d/RTrap/Demo%20Videos%20and%20Screeshots/Activitylog.jpg)
+![Watch Demo](https://raw.githubusercontent.com/manvendrasingh108/RTrap-Ransomware-Detection-Containment-using-Decoy-Files-and-ML/refs/heads/master/RTrap/Demo%20Videos%20and%20Screeshots/Activitylog.jpg)
 
 ---
 
